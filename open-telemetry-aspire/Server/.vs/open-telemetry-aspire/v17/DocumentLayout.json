@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\",
+  "WorkspaceRootPath": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\server\\open-telemetry-aspire\\endpoints\\greetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\server\\open-telemetry-aspire\\endpoints\\greetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|solutionrelative:open-telemetry-aspire\\endpoints\\greetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\server\\open-telemetry-aspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\server\\open-telemetry-aspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|solutionrelative:open-telemetry-aspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\server\\open-telemetry-aspire\\endpoints\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\server\\open-telemetry-aspire\\endpoints\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|solutionrelative:open-telemetry-aspire\\endpoints\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\server\\open-telemetry-aspire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|solutionrelative:open-telemetry-aspire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\server\\open-telemetry-aspire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|solutionrelative:open-telemetry-aspire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|d:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\server\\open-telemetry-aspire\\migrations\\20250523121655_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F1901E-AAED-458C-91F2-FB22730AA716}|open-telemetry-aspire\\open-telemetry-aspire.csproj|solutionrelative:open-telemetry-aspire\\migrations\\20250523121655_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,37 +106,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20250523121655_InitialMigration.cs",
-              "DocumentMoniker": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs",
+              "DocumentMoniker": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs",
               "RelativeDocumentMoniker": "open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs",
-              "ToolTip": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs",
+              "ToolTip": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs",
               "RelativeToolTip": "open-telemetry-aspire\\Migrations\\20250523121655_InitialMigration.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:16:55.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T12:16:55.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\appsettings.json",
+              "DocumentMoniker": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\appsettings.json",
               "RelativeDocumentMoniker": "open-telemetry-aspire\\appsettings.json",
-              "ToolTip": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\appsettings.json",
+              "ToolTip": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\appsettings.json",
               "RelativeToolTip": "open-telemetry-aspire\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T14:35:30.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T14:35:30.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Greetings.cs",
-              "DocumentMoniker": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\Greetings.cs",
+              "DocumentMoniker": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\Greetings.cs",
               "RelativeDocumentMoniker": "open-telemetry-aspire\\Endpoints\\Greetings.cs",
-              "ToolTip": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\Greetings.cs",
+              "ToolTip": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\Greetings.cs",
               "RelativeToolTip": "open-telemetry-aspire\\Endpoints\\Greetings.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAMwCEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,27 +145,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\User.cs",
+              "DocumentMoniker": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\User.cs",
               "RelativeDocumentMoniker": "open-telemetry-aspire\\Endpoints\\User.cs",
-              "ToolTip": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\User.cs",
+              "ToolTip": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Endpoints\\User.cs",
               "RelativeToolTip": "open-telemetry-aspire\\Endpoints\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:25:51.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T13:25:51.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Program.cs",
+              "DocumentMoniker": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Program.cs",
               "RelativeDocumentMoniker": "open-telemetry-aspire\\Program.cs",
-              "ToolTip": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Program.cs",
+              "ToolTip": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\Program.cs",
               "RelativeToolTip": "open-telemetry-aspire\\Program.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAewFAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:20:20.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T13:20:20.622Z"
             }
           ]
         }

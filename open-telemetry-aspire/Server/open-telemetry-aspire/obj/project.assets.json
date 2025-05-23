@@ -5726,11 +5726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\open-telemetry-aspire.csproj",
+      "projectUniqueName": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\open-telemetry-aspire.csproj",
       "projectName": "open-telemetry-aspire",
-      "projectPath": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\open-telemetry-aspire.csproj",
+      "projectPath": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\open-telemetry-aspire.csproj",
       "packagesPath": "C:\\Users\\Thunyiwe\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\obj\\",
+      "outputPath": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

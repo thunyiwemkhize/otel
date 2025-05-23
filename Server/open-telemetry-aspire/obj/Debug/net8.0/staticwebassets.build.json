@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ieRP0i64cFUe2EiIApMRIvQoJEhyyh5jf8bqf2SKqRw=",
+  "Source": "open-telemetry-aspire",
+  "BasePath": "_content/open-telemetry-aspire",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

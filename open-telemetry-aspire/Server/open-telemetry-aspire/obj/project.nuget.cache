@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8aUBFO7+okc=",
+  "dgSpecHash": "zSAd+EaDOs0=",
   "success": true,
-  "projectFilePath": "D:\\repos\\deliberate-practice\\open-telemetry\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\open-telemetry-aspire.csproj",
+  "projectFilePath": "D:\\repos\\deliberate-practice\\otel\\open-telemetry-aspire\\Server\\open-telemetry-aspire\\open-telemetry-aspire.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thunyiwe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Thunyiwe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
