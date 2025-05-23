@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("open-telemetry-aspire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9263b5cd96951ed9864344e85d6fa0ffdd9367c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54090cbb605ecf81ff4a0e4fa9ffd849b05924a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("open-telemetry-aspire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("open-telemetry-aspire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
